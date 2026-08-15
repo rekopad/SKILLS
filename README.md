@@ -10,8 +10,8 @@
 > git remote set-url origin https://github.com/ghafarallahi/SKILLS.git
 > ```
 
-[![release](https://img.shields.io/github/v/release/rekopad/SKILLS)](https://github.com/rekopad/SKILLS/releases/latest)
-[![tests](https://github.com/rekopad/SKILLS/actions/workflows/tests.yml/badge.svg)](https://github.com/rekopad/SKILLS/actions/workflows/tests.yml)
+[![release](https://img.shields.io/github/v/release/ghafarallahi/SKILLS)](https://github.com/ghafarallahi/SKILLS/releases/latest)
+[![tests](https://github.com/ghafarallahi/SKILLS/actions/workflows/tests.yml/badge.svg)](https://github.com/ghafarallahi/SKILLS/actions/workflows/tests.yml)
 
 Claude Code customizations that make an independent model — OpenAI's Codex — confirm work
 before it's reported as done. Claude doesn't self-certify.
@@ -20,7 +20,7 @@ before it's reported as done. Claude doesn't self-certify.
 
 ```bash
 npm install -g @openai/codex && codex login
-git clone https://github.com/rekopad/SKILLS.git ~/MyProject/SKILLS
+git clone https://github.com/ghafarallahi/SKILLS.git ~/MyProject/SKILLS
 bash ~/MyProject/SKILLS/hooks/install.sh
 ```
 
