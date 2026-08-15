@@ -1,5 +1,15 @@
 # SKILLS
 
+> **This repository has moved to [github.com/ghafarallahi/SKILLS](https://github.com/ghafarallahi/SKILLS).**
+>
+> This copy is archived and read-only. It stays here so old links keep working, but it
+> receives no further changes. The new repository has the same history and the same tags,
+> plus everything released after v0.2.0.
+>
+> ```bash
+> git remote set-url origin https://github.com/ghafarallahi/SKILLS.git
+> ```
+
 [![release](https://img.shields.io/github/v/release/rekopad/SKILLS)](https://github.com/rekopad/SKILLS/releases/latest)
 [![tests](https://github.com/rekopad/SKILLS/actions/workflows/tests.yml/badge.svg)](https://github.com/rekopad/SKILLS/actions/workflows/tests.yml)
 
